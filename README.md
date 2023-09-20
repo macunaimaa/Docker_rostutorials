@@ -3,7 +3,7 @@ Linux:
 Run the following command to set up and start the application:  
 ```
 source setup.sh  
-
+```
 Windows:
 
 Follow these instructions step by step:
