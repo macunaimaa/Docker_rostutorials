@@ -1,15 +1,9 @@
-Building the Docker Image  
-To build the Docker image, use the following command:  
-
-		```
-		source setup.sh
-		```
-Running the Application  
-
+## Building the Docker Image  
 Linux:  
 Run the following command to set up and start the application:  
+```
+source setup.sh  
 
-source setup.sh
 Windows:
 
 Follow these instructions step by step:
